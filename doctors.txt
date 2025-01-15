@@ -1,0 +1,7 @@
+1,Dr. Ahmad Raza,Cardiologist
+2,Dr. Ayesha Siddiqui,General Physician
+3,Dr. Imran Ali,Orthopedic Surgeon
+4,Dr. Sana Malik,Pediatrician
+5,Dr. Faisal Shahzad,Dermatologist
+6,Dr. Maryam Noor,Gynecologist
+7,Dr. Bilal Zafar,Neurologist
